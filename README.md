@@ -6,7 +6,7 @@ Lista de eventos no Brasil sobre
 Information, Communication & Security Technologies Events in Brazil
 
 
-**Contribua com informações sobre eventos legais!** 
+**-->Contribua com informações sobre eventos legais!** 
 
 
 **TECNOLOGIA E INOVAÇÂO**
