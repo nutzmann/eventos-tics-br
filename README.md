@@ -1,6 +1,6 @@
 # Lista de eventos de Tecnologias de Informação Comunicação e Segurança no Brasil.
-# eventos-tics-br
-# Information, Communication & Security Technologies Events in Brazil
+eventos-tics-br
+Information, Communication & Security Technologies Events in Brazil
 
 
 **Contribua com informações sobre eventos legais!** 
