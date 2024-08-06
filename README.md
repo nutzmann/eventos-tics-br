@@ -1,14 +1,13 @@
-Lista de eventos no Brasil sobre
-# Tecnologias de Informação Comunicação e Segurança 
-
 #eventos-tics-br
 
-Information, Communication & Security Technologies Events in Brazil
+# Tecnologias de Informação Comunicação e Segurança 
+  Information, Communication & Security Technologies Events in Brazil
 
 
-**-->Contribua com informações sobre eventos legais!** 
 
-
+**--> Contribua com informações sobre eventos legais!** 
+ 
+ 
 **TECNOLOGIA E INOVAÇÂO**
 - [Campus Party](https://brasil.campus-party.org/): (Diversas localidades) maior festival de tecnologia, empreendedorismo, ciência e disruptividade do mundo. Realizada em mais de 30 países, a Campus Party oferece um ambiente imersivo de disrupção, educação e criatividade.
 - [Futurecom](https://www.futurecom.com.br/pt/home.html): (São Paulo, SP) O Futurecom é uma plataforma dinâmica de B2B que ao longo de mais de 20 anos, tem sido um hub crucial para negócios e inovação no mercado. Como líder na integração do universo TIC, facilita a conexão entre empresas, startups e profissionais de tecnologia. Oferecendo soluções de conectividade e acesso a tecnologias de ponta e insights estratégicos para líderes empresariais e empresas inovadoras em diversos setores da economia.
@@ -33,8 +32,8 @@ Information, Communication & Security Technologies Events in Brazil
 - [AWS Summit](https://aws.amazon.com/pt/events/summits/sao-paulo/): (São Paulo) Conferência da Amazon Web Services sobre computação em nuvem.
 - [Conferência Gartner CIO & IT Executive](https://www.gartner.com/pt-br/conferences/la/cio-brazil): (São Paulo) Explore oportunidades inovadoras e transformacionais com uma comunidade global de especialistas. Saia com insights e orientação especializada para impulsionar a transformação digital dos negócios, alavancar valor para o negócio a partir dos dados, moldar o futuro das aplicações inteligentes, construir infraestrutura digital, bem como mitigar os riscos cibernéticos.
 - [Febraban Tech](https://febrabantech.febraban.org.br/home): (São Paulo) Maior evento de tecnologia e inovação do setor financeiro, reúne as lideranças dos setores financeiro, tecnologia, sustentabilidade, agro e de áreas interessadas em inovação, para debates sobre temas atuais da economia digital.
-- [GTER / GTSD](https://gtergts.nic.br/) (São Paulo) Renião anual do GTS - Grupo de Trabalho em Segurança de Redes e do GTER - Grupo de Trabalho de Engenharia e Operação de Redes do cgi.br (Comitê Gestor da Internet) e nic.br - atualmente realizadas durante a [Semana da Infraestrutura da Internet no Brasil](https://nic.br/semanainfrabr/).  
 - [IOT Solutions Congress Brasil](https://iotscongressbrasil.com.br/): (São Paulo) Congresso focado em soluções e inovações na área da Internet das Coisas (IoT), reunindo líderes da indústria, especialistas e profissionais C-level.
+- [GTER / GTS](https://gtergts.nic.br/) (São Paulo) Renião anual do GTS - Grupo de Trabalho em Segurança de Redes e do GTER - Grupo de Trabalho de Engenharia e Operação de Redes do cgi.br (Comitê Gestor da Internet) e nic.br - atualmente realizadas durante a [Semana da Infraestrutura da Internet no Brasil](https://nic.br/semanainfrabr/).  
 - [Semana de Infraestrutura da Internet no Brasil](https://nic.br/semanainfrabr/): (São Paulo) Em uma mesma semana, o NIC.br e CGI.br organizam importantes eventos que discutirão temas diretamente ligados à infraestrutura da Internet no Brasil.
 - [TecBan Summit](https://tecban.com.br/summit/): (São Paulo) A TecBan organizou em 2023 pela primeira vez o encontro anual da ATEFI (Asociación Latinoamericana de Operadores de Servicios de Transferencia) que reuniu as principais lideranças da América Latina para discutir tendências do setor financeiro e meios de pagamento. O TecBan Summit 2023 contou com a participação de referências mundiais dos mercados de tecnologia, inovação, segurança, novos meios de pagamento, auto-atendimento e open banking. Além de ter exposto as mais recentes iniciativas destes setores, trouxe também painéis e palestras sobre o impacto das novas tecnologias que integram o físico e o digital.
 - [Universo TOTVS](https://universo.totvs.com/): (São Paulo) Evento da TOTVS, empresa Brasileira de software de gestão empresarial.
@@ -55,6 +54,7 @@ Information, Communication & Security Technologies Events in Brazil
 - [Security BSides SP](https://securitybsides.com.br/): (São Paulo) A Conferência Security BSides São Paulo (BSidesSP) é um evento gratuito organizado pela comunidade de segurança da informação. Seu principal objetivo é fomentar a inovação, a discussão e a troca de conhecimento sobre segurança da informação e sobre os aspectos positivos da cultura hacker, apoiando o crescimento do mercado. É uma excelente oportunidade para a indústria e fabricantes interagirem com especialistas em segurança, compartilhando sua expertise com um público disposto a buscar conhecimento e inovação contínua.
 - [Security Leaders](https://securityleadersnacional.com.br/): (Diversas localidades) Conferência de Segurança da Informação e Cibernética voltada para Compartilhar Informações, Trocar Experiências e Estreitar Relacionamentos.
 - [You Sh0t the Sheriff](https://www.ysts.org/): (São Paulo) A conferência de segurança da informação mais exclusiva do Brasil, o You sh0t the Sheriffadota um modelo único e diferenciado reunindo as pessoas mais influentes do setor de segurança da informação brasileiro em um ambiente informal e descontraído. A combinação perfeita para networking e fortalecimento das relações de negócios com clientes atuais e futuros.
+- [Fórum Brasileiro de CSIRTs](https://forum.cert.br/): (São Paulo) Um evento dedicado à construção de comunidade, e à discussão de assuntos relacionados com a resiliência das organizações face a incidentes de segurança.
 - ...
 
 
