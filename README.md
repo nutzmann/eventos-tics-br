@@ -1,11 +1,11 @@
 #eventos-tics-br
 
 # Tecnologias de Informação Comunicação e Segurança 
-  Information, Communication & Security Technologies Events in Brazil
+  _Information, Communication & Security Technologies Events in Brazil_
 
 
 
-**--> Contribua com informações sobre eventos legais!** 
+**--> Contribua com informações sobre eventos legais! <--** 
  
  
 **TECNOLOGIA E INOVAÇÂO**
