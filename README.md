@@ -21,9 +21,9 @@
 - [Codecon Summit](https://codecon.dev/): (Joinville, SC) Evento para desenvolvedores e entusiastas de programação.
 - [DevOpsDay](https://devopsdays.org/): (Diversas localidades) O DevOpsDays é uma série mundial de conferências comunitárias para todos interessados em melhorias na área de TI. O evento reúne entusiastas e especialistas em DevOps para compartilhar práticas, frameworks e ferramentas aplicáveis em organizações.
 - [DevOps Fest](https://conteudo.devopsbootcamp.net/devopsfest2024): (Online) O DevOps Fest é um evento online e gratuito promovido pelo DevOpsBootcamp. Ele reúne entusiastas, profissionais e especialistas em DevOps para celebrar o conhecimento e a evolução na área.
-- [Front-End Week](https://www.frontendweek.com.br/): (Itinerante) Uma semana (ou mais) de eventos e meetups front-end organizados pela própria comunidade de front-end developers do Brasil.
-- [FrontIn Sampa](https://frontinsampa.com.br/): (São Paulo, SP) Conferência focada em desenvolvimento front-end.
 - [Frontin Floripa](https://frontin.floripa.br/):  (Florianópolis, SC) Conferência focada em desenvolvimento front-end.
+- [FrontIn Sampa](https://frontinsampa.com.br/): (São Paulo, SP) Conferência focada em desenvolvimento front-end.
+- [Front-End Week](https://www.frontendweek.com.br/): (Itinerante) Uma semana (ou mais) de eventos e meetups front-end organizados pela própria comunidade de front-end developers do Brasil.
 - [The Dev Conf (TDC)](https://thedevconf.com/): (Diversas localidades) Maior evento de desenvolvimento de software da América Latina, conectando profissionais de tecnologia, palestrantes e empresas.
 - ...
 
