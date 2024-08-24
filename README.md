@@ -15,19 +15,6 @@
 - ...
 
 
-**DESENVOLVIMENTO**
-- [Brasil JS](https://www.braziljs.org/): (Porto Alegre, RS) Encontro para a comunidade JavaScript no Brasil.
-- [Code in the Dark](http://codeinthedark.com.br/): (Florianópolis, SC) Imagine uma competição assim: Várias pessoas desenvolvedoras front-end precisam codificar uma página em apenas 15 minutos... Até aí o desafio já é enorme, concorda? Agora adicione o fato de que eleas não podem ver o resultado da página no browser, somente o código fonte, usando apenas HTML e CSS: Esse é o Code in the Dark!
-- [Codecon Summit](https://codecon.dev/): (Joinville, SC) Evento para desenvolvedores e entusiastas de programação.
-- [DevOpsDay](https://devopsdays.org/): (Diversas localidades) O DevOpsDays é uma série mundial de conferências comunitárias para todos interessados em melhorias na área de TI. O evento reúne entusiastas e especialistas em DevOps para compartilhar práticas, frameworks e ferramentas aplicáveis em organizações.
-- [DevOps Fest](https://conteudo.devopsbootcamp.net/devopsfest2024): (Online) O DevOps Fest é um evento online e gratuito promovido pelo DevOpsBootcamp. Ele reúne entusiastas, profissionais e especialistas em DevOps para celebrar o conhecimento e a evolução na área.
-- [Frontin Floripa](https://frontin.floripa.br/):  (Florianópolis, SC) Conferência focada em desenvolvimento front-end.
-- [FrontIn Sampa](https://frontinsampa.com.br/): (São Paulo, SP) Conferência focada em desenvolvimento front-end.
-- [Front-End Week](https://www.frontendweek.com.br/): (Itinerante) Uma semana (ou mais) de eventos e meetups front-end organizados pela própria comunidade de front-end developers do Brasil.
-- [The Dev Conf (TDC)](https://thedevconf.com/): (Diversas localidades) Maior evento de desenvolvimento de software da América Latina, conectando profissionais de tecnologia, palestrantes e empresas.
-- ...
-
-
 **DE EMPRESAS E SETORES DA TI**
 - [AWS Summit](https://aws.amazon.com/pt/events/summits/sao-paulo/): (São Paulo) Conferência da Amazon Web Services sobre computação em nuvem.
 - [Conferência Gartner CIO & IT Executive](https://www.gartner.com/pt-br/conferences/la/cio-brazil): (São Paulo) Explore oportunidades inovadoras e transformacionais com uma comunidade global de especialistas. Saia com insights e orientação especializada para impulsionar a transformação digital dos negócios, alavancar valor para o negócio a partir dos dados, moldar o futuro das aplicações inteligentes, construir infraestrutura digital, bem como mitigar os riscos cibernéticos.
@@ -43,6 +30,7 @@
 **SEGURANÇA DA INFORMAÇÃO**
 - [BHack](https://www.bhack.com.br/): (Belo Horizonte) Desde 2012, a BHack tem como objetivo atender às necessidades do público mineiro quando se trata de Segurança da Informação (SI). A conferência se consolidou no cenário nacional como um dos eventos anuais de maior importância no circuito, oferecendo palestras repletas de conteúdos atuais e relevantes para todos aqueles que lidam com Segurança da Informação, agregando conhecimento e promovendo integração entre gestores e técnicos.
 - [BlackBox Meeting](https://www.linkedin.com/company/blackboxbr/about/): (Brasília) Este encontro recorrente e inovador é projetado para proporcionar uma experiência única, onde as informações fluem, mas permanecem guardadas nas sombras. O conceito central do evento reside em sua intrigante premissa: todas as informações apresentadas e compartilhadas permanecerão em total confidencialidade, permitindo aos participantes explorarem o desconhecido de maneira segura e envolvente.
+- [bxsec](https://bxsec.org/): (Santos) Abordando temas técnicos para não seguir os moldes de um evento comercial, as palestras não são sobre produtos ou fabricantes. São abordados temas que envolvem segurança da informação e hacking.
 - [CIO Brasil Gov / 4CIO / 4CSO](https://www.it4cio.com/eventos/list/): (Diversas localidades) Os eventos visam reunir os principais líderes de Segurança da Informação das organizações brasileiras.
 - [CISO Forum](https://cisoforum.com.br/): (São Paulo) Em um mundo onde a segurança digital é mais crítica do que nunca, o CISO Forum se estabelece como o evento exclusivo para executivos comprometidos com a vanguarda da segurança da informação e cibersegurança. Projetado meticulosamente para os líderes visionários das indústrias, o CISO Forum é a plataforma ideal para explorar soluções inovadoras, estratégias avançadas e tendências emergentes que definirão o futuro da segurança digital.
 - [CS4CA + Latam Cyber Summit](https://latam.cs4ca.com/): (São Paulo) The globally acclaimed Cyber Security for Critical Assets summit returns to Brazil for its fourth edition in 2024 with a new ally, LatAm Cyber Summit, to help cyber security leaders from both IT & OT security environments to strengthen their organisations defences against malicious actors. 
@@ -57,6 +45,19 @@
 - [Security BSides SP](https://securitybsides.com.br/): (São Paulo) A Conferência Security BSides São Paulo (BSidesSP) é um evento gratuito organizado pela comunidade de segurança da informação. Seu principal objetivo é fomentar a inovação, a discussão e a troca de conhecimento sobre segurança da informação e sobre os aspectos positivos da cultura hacker, apoiando o crescimento do mercado. É uma excelente oportunidade para a indústria e fabricantes interagirem com especialistas em segurança, compartilhando sua expertise com um público disposto a buscar conhecimento e inovação contínua.
 - [Security Leaders](https://securityleadersnacional.com.br/): (Diversas localidades) Conferência de Segurança da Informação e Cibernética voltada para Compartilhar Informações, Trocar Experiências e Estreitar Relacionamentos.
 - [You Sh0t the Sheriff](https://www.ysts.org/): (São Paulo) A conferência de segurança da informação mais exclusiva do Brasil, o You sh0t the Sheriffadota um modelo único e diferenciado reunindo as pessoas mais influentes do setor de segurança da informação brasileiro em um ambiente informal e descontraído. A combinação perfeita para networking e fortalecimento das relações de negócios com clientes atuais e futuros.
+- ...
+
+
+**DESENVOLVIMENTO**
+- [Brasil JS](https://www.braziljs.org/): (Porto Alegre, RS) Encontro para a comunidade JavaScript no Brasil.
+- [Code in the Dark](http://codeinthedark.com.br/): (Florianópolis, SC) Imagine uma competição assim: Várias pessoas desenvolvedoras front-end precisam codificar uma página em apenas 15 minutos... Até aí o desafio já é enorme, concorda? Agora adicione o fato de que eleas não podem ver o resultado da página no browser, somente o código fonte, usando apenas HTML e CSS: Esse é o Code in the Dark!
+- [Codecon Summit](https://codecon.dev/): (Joinville, SC) Evento para desenvolvedores e entusiastas de programação.
+- [DevOpsDay](https://devopsdays.org/): (Diversas localidades) O DevOpsDays é uma série mundial de conferências comunitárias para todos interessados em melhorias na área de TI. O evento reúne entusiastas e especialistas em DevOps para compartilhar práticas, frameworks e ferramentas aplicáveis em organizações.
+- [DevOps Fest](https://conteudo.devopsbootcamp.net/devopsfest2024): (Online) O DevOps Fest é um evento online e gratuito promovido pelo DevOpsBootcamp. Ele reúne entusiastas, profissionais e especialistas em DevOps para celebrar o conhecimento e a evolução na área.
+- [Frontin Floripa](https://frontin.floripa.br/):  (Florianópolis, SC) Conferência focada em desenvolvimento front-end.
+- [FrontIn Sampa](https://frontinsampa.com.br/): (São Paulo, SP) Conferência focada em desenvolvimento front-end.
+- [Front-End Week](https://www.frontendweek.com.br/): (Itinerante) Uma semana (ou mais) de eventos e meetups front-end organizados pela própria comunidade de front-end developers do Brasil.
+- [The Dev Conf (TDC)](https://thedevconf.com/): (Diversas localidades) Maior evento de desenvolvimento de software da América Latina, conectando profissionais de tecnologia, palestrantes e empresas.
 - ...
 
 
