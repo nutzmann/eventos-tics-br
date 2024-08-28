@@ -10,6 +10,7 @@
  
 **TECNOLOGIA E INOVAÇÂO**
 - [Campus Party](https://brasil.campus-party.org/): (Diversas localidades) maior festival de tecnologia, empreendedorismo, ciência e disruptividade do mundo. Realizada em mais de 30 países, a Campus Party oferece um ambiente imersivo de disrupção, educação e criatividade.
+- [CONAREC](https://conarec.com.br/): (São Paulo) Um dos maiores eventos de Customer Experience (CX) do mundo e o maior da América Latina. Reunimos os profissionais mais admirados do mercado em prol de um objetivo comum: compartilhar experiências, desenhar jornadas com o mínimo de atritos, aprimorar a experiência do cliente e promover um forte engajamento. Somos mais que um evento; somos um movimento que busca constantemente inovar, impulsionar mudanças, apresentar tendências e elevar o padrão do atendimento ao cliente e os serviços.
 - [Futurecom](https://www.futurecom.com.br/pt/home.html): (São Paulo, SP) O Futurecom é uma plataforma dinâmica de B2B que ao longo de mais de 20 anos, tem sido um hub crucial para negócios e inovação no mercado. Como líder na integração do universo TIC, facilita a conexão entre empresas, startups e profissionais de tecnologia. Oferecendo soluções de conectividade e acesso a tecnologias de ponta e insights estratégicos para líderes empresariais e empresas inovadoras em diversos setores da economia.
 - [Web Summit](https://rio.websummit.com/): (Rio de Janeiro, RJ) Conferência global de tecnologia e inovação.
 - ...
